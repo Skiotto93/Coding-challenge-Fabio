@@ -1,0 +1,119 @@
+body {
+  background-image: url(sfondochallenge.jpg);
+  background-size: cover;
+}
+#main_content {
+  top: 50px;
+  left: 500px;
+  width: 1000px;
+  height: 800px;
+  min-height: 500px;
+  background-color: #000000;
+  opacity: 0.5;
+  position: relative;
+}
+
+#container {
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+  margin-left: 20px;
+}
+
+.logo{
+  width: 180px;
+  margin-top: 40px;
+  margin-left: 400px;
+}
+h1 {
+  text-align: center;
+  color: green;
+  opacity: 1;
+}
+
+.row {
+  background-color: green;
+  width: 950px;
+  height: 50px;
+}
+
+.Tasti {
+width: 180px;
+height: 25px;
+margin-left: 90px;
+margin-top: 10px;
+}
+
+h3 {
+  color: white;
+  opacity: 1;
+  display: inline-block;
+}
+
+.stverde {
+  margin-top: 5px;
+  margin-bottom: 1px;
+}
+
+.arrow {
+  color: white;
+  opacity: 1;
+  display: inline;
+}
+
+.info1 {
+  color: white;
+  opacity: 1;
+}
+
+h4 {
+  display: inline;
+  color: white;
+}
+
+.progress-bar1 {
+    background-color: #FF9800;
+    ;
+    padding: 5px;
+    ;
+    margin: 5px 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    width: 35%;
+}
+
+.progress-bar2 {
+    background-color: #209925;
+    ;
+    padding: 5px;
+    ;
+    margin: 5px 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    width: 65%;
+}
+
+.progress-bar3 {
+    background-color: #FB1100;
+    ;
+    padding: 5px;
+    ;
+    margin: 5px 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+    width: 15%;
+}
